@@ -40,8 +40,8 @@
 </div>
 
 <script>
-    GitHubCalendar(".calendar", "your-username");
+    GitHubCalendar(".calendar", "fp05107");
     // or enable responsive functionality
-    GitHubCalendar(".calendar", "your-username", { responsive: true });
+    GitHubCalendar(".calendar", "fp05107", { responsive: true });
 </script>
           
