@@ -54,7 +54,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 
 
-<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=fp05107" alt="chhavi" /> </h3>
+<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=fp05107" alt="subham" /> </h3>
   <a href="https://github.com/fp05107?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/fp05107?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p><hr/>
