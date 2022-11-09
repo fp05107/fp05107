@@ -1,75 +1,158 @@
-<!-- [![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210317125205/Java-Backend-Development-%E2%80%93-Live-Course-By-GeeksforGeeks1.png) -->
-<h1 align="center">Hi , I'm Subham Sahoo<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<div align="center">
+<img width=100% title="Coder Subham" alt="Coder Subham" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Born-To-Code🔰&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-</div>
-     <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></img></a>
-     <hr/>
-     <div style="display:flex">
-    <p align="left" style="max-width:40%">
-From Odisha, India. I am a technology enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web, applications.
+<!-- ![Blue Isometric Line Digital Marketing LinkedIn Banner](https://user-images.githubusercontent.com/105943862/200484450-6bc2f1be-6e5a-4e91-a6d8-c45a18949f5a.png)
+ -->
 
-I am skilled in HTML, CSS, Javascript, Java, MySql, Hibernate, Spring Boot. I am good in data structure and algorithms.
-
-I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
+### Hi 👋, I am Subham Sahoo
+<p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=Full+Stack+Web+Developer;Rising+Java+Back-End+Developer;First,+solve+the+problem.+Then,+write+the+code." alt="Typing SVG" /></a>
 </p>
 
+<!-- <img src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" alt="CoderAbhi0713" width = "100%" height= "400">  -->
 
-</div>
-
-<hr/>
-🌱<p> What do I do? <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
-
-✔️  I aspire to work as a programmer.
-
-✔️I'm a fast learner looking for interesting career opportunities in Web Developement.
-
-
-✔️ Currently looking for opportunities as a Java Backend developer to help me learn and grow as a web developer.
-<hr/>
-
+<!-- --------------------------------------------------------------    Intoduction  ---------------------------------------------------------------------------- -->
 
 <div>
-    <h2>languages and tools</h2>
-    <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-     
-</div> 
-
-
-
-<h1 align="center">My Github Stats : <img src="https://c.tenor.com/iol6pdgnlasAAAAM/hoodie-girl-cool.gif" height="50px" width="50px"/> </h1>
-<!-- ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg) -->
-
-<a href="https://github.com/fp05107-cmd/github-readme-activity-graph"><img alt="Subham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fp05107&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fp05107&show_icons=true&locale=en&layout=compact" alt="fp05107" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fp05107&show_icons=true&locale=en" alt="fp05107" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fp05107&" alt="fp05107" /></p>
-
-
-
-
-
-
-<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=fp05107" alt="subham" /> </h3>
-  <a href="https://github.com/fp05107?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/fp05107?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p><hr/>
-
- <h2 align="left">🤝Let's Connect</h2>
-
- <p align="left">
-    <a href="https://www.linkedin.com/in/subham-sahoo-37089222b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subham sahoo" height="30" width="40" /></a>
-    </p>
-
+ <img src="https://topdevs.org/images/site/services/webdev/hero-bg.svg" alt="Coder" width = "50%" height= "270" align = "right"> 
  
+</br> </br>
+<!-- [![Followers](https://img.shields.io/github/followers/abhishek-0713)](#) -->
+ [![Stars](https://img.shields.io/github/stars/fp05107?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) 
+![Profile views](https://gpvc.arturio.dev/fp05107)
+- 🌱 I’m currently learning Java Spring Boot.
+
+- 💞️ I’m looking for a oppurtunity in java backend development.
+
+- 💬 Ask me about Data Structures and Algorithms.
+
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1AOHf46vMzZFKLEHMTg1d9dF4BrnIjwyN/view?usp=sharing">Resume.</a>
+
+- 👨‍💻 All of my projects are available at <a href="https://fp05107.github.io/">Subham Sahoo's Portfolio.</a>
+
+</div>
+
+ </br> </br>
+ 
+ <!-- -------------------------------------------------------------   Thoughts  ------------------------------------------------------------------------- -->
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react-dark) 
+
+ </br>
+ 
+  <!-- ---------------------------------------------------  StackOverflow & LeetCode  ------------------------------------------------------------------- -->
 
 
+<!-- | # Stackoverflow  [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=20249587)](https://stackoverflow.com/users/20249587/abhishek-d-patil)  | # Leetcode   ![LeetCode Stats](https://leetcode.card.workers.dev/coder_abhi0713?theme=dark&font=) |
+| :---: | :---: | -->
 
-</p>
 
+ <!-- -------------------------------------------------------    Middle Section  ----------------------------------------------------------------------- -->
+ 
+ <img align="left" width="50" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" />
+
+ ## Skills : 
+
+ ### 👨‍💻 Programming and markup languages
+
+<code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Ajava"><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code> 
+<code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Ajavascript"><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+<!-- <code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Ajavascript"><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code> -->
+<code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Acss"><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
+<code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Ahtml"><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
+<code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Abash"><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a></code>
+<code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Asql"><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+
+<!-- <code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a></code>
+<code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a></code> -->
+
+</br>
+
+### 🧰 Frameworks and libraries
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+<!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code> -->
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<!-- <code><img width="10%" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/maven.svg"></code> -->
+<!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code> -->
+
+</br>
+
+### 🗄️ Databases and cloud hosting
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code> -->
+<!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code> -->
+<!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code> -->
+<!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/replit/replit-ar21.svg"></code> -->
+
+</br>
+
+### 💻 Software and tools
+
+<!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code> -->
+<!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code> -->
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></code>
+<!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code> -->
+
+</br>
+
+<!-- ----------------------------------------------------------    Social Media  ---------------------------------------------------------------------- -->
+<div>
+
+## 📮Be Connected :
+ 
+<code><a href="https://www.linkedin.com/in/subham-sahoo-37089222b/"><img width="10%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code> 
+<!-- <code><a href="https://www.leetcode.com/coder_abhi0713"><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg"></a></code> -->
+<code><a href="https://www.hackerrank.com/andharalauri?hr_r=1"><img width="10%" src="https://user-images.githubusercontent.com/105943862/198336706-a223d43a-79bc-48c0-a5b3-61af6330163a.png"></a></code>
+<!-- <code><a href="https://join.skype.com/invite/r10m6y3GdzGC"><img width="10%" src="https://www.vectorlogo.zone/logos/skype/skype-ar21.svg"></a></code> -->
+
+ <details>
+    <summary><b>😅 Fun Fact</b></summary>
+    </br>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+  
+ </Details>
+
+<!-- -------------------------------------------------------------   Trophy and Stats  ------------------------------------------------------------------------- -->
+
+## Trophy & Stats :
+
+| [![trophy](https://github-profile-trophy.vercel.app/?username=fp05107)](https://github.com/ryo-ma/github-profile-trophy) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fp05107&layout=compact)](https://github.com/fp05107/github-readme-stats) |
+| :---: | :---: |
+
+
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fp05107&theme=dark&show_icons=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=fp05107&theme=dark&border_radius=4)](https://git.io/streak-stats) |
+| :---: | :---: |
+
+
+<details>
+   <summary><b>:rocket: &nbsp;Github stats Detailed</b></summary>
+   </br>
+  
+<table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fp05107&theme=2077"/></td><td>
+<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fp05107&theme=2077"/></td></tr></table>
+<table><tr><td width="430"><img width="500"  height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fp05107&theme=2077"/></td>
+<td width="430"><img width="500" height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fp05107&theme=2077"/></td></tr></table>
+
+[![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=fp05107&theme=react-dark)](https://github.com/fp05107/github-readme-activity-graph)  
+
+</br>
+</details>
+
+<img align="center" src="https://raw.githubusercontent.com/fp05107/fp05107/main/profile-3d-contrib/profile-night-green.svg" alt="Coder Subham" height="550" width="100%" /> 
+
+ <!-- ![GitHub metrics](https://metrics.lecoq.io/abhishek-0713) -->
+
+<img width=100% title="Coder Subham" alt="Coder Subham" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Eat🍴-Sleep🛌-Code👨‍💻-Repeat🔁&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
 
 
