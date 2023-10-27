@@ -28,7 +28,7 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1AOHf46vMzZFKLEHMTg1d9dF4BrnIjwyN/view?usp=sharing">Resume.</a>
 
-- 👨‍💻 All of my projects are available at <a href="https://fp05107.github.io/">Subham Sahoo's Portfolio.</a>
+- 👨‍💻 All of my projects are available at <a href="https://subham-sahoo.vercel.app/">Subham Sahoo's Portfolio.</a>
 
 </div>
 
